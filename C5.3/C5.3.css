@@ -1,0 +1,14 @@
+.card {
+     width: 100px;
+     margin: 20px
+   }
+  
+.card-image{
+     display: block;
+     width: 200px;
+     height: 150px
+   }
+  
+.text_for_input{
+     margin: 25px 0 0 0 
+   }
